@@ -1,0 +1,26 @@
+# Java / Maven
+target/
+*.class
+*.jar
+
+# React / Node
+node_modules/
+dist/
+.vite/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
